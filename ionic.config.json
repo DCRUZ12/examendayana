@@ -1,0 +1,9 @@
+{
+  "name": "taller1",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    }
+  },
+  "type": "angular"
+}
